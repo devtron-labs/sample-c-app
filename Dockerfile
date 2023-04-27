@@ -1,6 +1,6 @@
 FROM gcc:latest
 
-COPY . /DockerWorld
+COPY ./DockerWorld
 
 WORKDIR /DockerWorld/
 
